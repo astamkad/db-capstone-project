@@ -1,0 +1,38 @@
+# macOS system files
+.DS_Store
+
+# MySQL Workbench files
+*.bak
+*.log
+*.tmp
+
+# SQL dump files you don't want tracked
+*.sql~
+
+# MySQL socket or PID files
+*.sock
+*.pid
+
+# Sensitive credentials
+.env
+*.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Output or reports (optional)
+output/
+reports/
+
+# Node modules (optional)
+node_modules/
