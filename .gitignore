@@ -16,6 +16,7 @@
 # Sensitive credentials
 .env
 *.env
+venv/
 
 # IDE/editor folders
 .vscode/
@@ -36,3 +37,23 @@ reports/
 
 # Node modules (optional)
 node_modules/
+
+# SQL Dump files
+*.sql
+
+# Excel or CSV exports
+*.xlsx
+*.csv
+
+# Tableau files
+*.twb
+*.twbx
+*.tds
+*.tdsx
+
+# MySQL Workbench model diagrams
+*.mwb
+*.png
+
+# Mac archive metadata
+__MACOSX/
