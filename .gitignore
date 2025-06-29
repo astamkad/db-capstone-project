@@ -6,8 +6,6 @@
 *.log
 *.tmp
 
-# SQL dump files you don't want tracked
-*.sql~
 
 # MySQL socket or PID files
 *.sock
@@ -38,12 +36,7 @@ reports/
 # Node modules (optional)
 node_modules/
 
-# SQL Dump files
-*.sql
 
-# Excel or CSV exports
-*.xlsx
-*.csv
 
 # Tableau files
 *.twb
