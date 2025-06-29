@@ -57,3 +57,5 @@ node_modules/
 
 # Mac archive metadata
 __MACOSX/
+
+/db-capstone-project/venv/
